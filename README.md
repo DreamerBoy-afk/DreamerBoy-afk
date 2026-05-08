@@ -8,3 +8,6 @@
 
 ### 🛠 Tecnologías
 ![Mi Stack](https://skillicons.dev/icons?i=js,html,css,github,vscode,py)
+
+![cityTrain](img/viewTrain1.svg)
+
