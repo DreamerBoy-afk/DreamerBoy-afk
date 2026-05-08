@@ -1,4 +1,4 @@
-![Banner](city1.png)
+![Banner](img/city1.png)
 
 # 👋 ¡Hola! Soy DreamerBoy-afk
 
