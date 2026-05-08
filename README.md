@@ -1,6 +1,6 @@
 ![Banner](img/FlowApart.png)
 
-# 👋 ¡Hola! Soy DreamerBoy-afk
+# ¡Hola! Soy DreamerBoy-afk
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente estoy estudiando informatica
