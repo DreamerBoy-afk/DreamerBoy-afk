@@ -1,4 +1,4 @@
-![Banner](img/FlowApart)
+![Banner](img/FlowApart.png)
 
 # 👋 ¡Hola! Soy DreamerBoy-afk
 
